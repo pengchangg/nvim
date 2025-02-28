@@ -10,3 +10,5 @@ map("n", ",l", "<cmd>HopLineStart<cr>")
 map("n", ",w", "<cmd>HopWord<cr>")
 
 map("i", "jj", "<esc>", { noremap = false,desc = "BACK NORMAL" })
+map("i", "jk", "<esc>", { noremap = false,desc = "BACK NORMAL" })
+map("i", "kk", "<esc>", { noremap = false,desc = "BACK NORMAL" })
